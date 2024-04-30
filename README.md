@@ -2,7 +2,7 @@
 
 
 ## Github Link
-https://github.com/Hemant-Gupta1/sundown/tree/main
+https://github.com/Hemant-Gupta1/Sundown
 
 
 ## Description
