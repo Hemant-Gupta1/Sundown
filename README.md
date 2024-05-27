@@ -1,7 +1,7 @@
 # Sundown
 
 
-## Github Link
+## GitHub Link
 https://github.com/Hemant-Gupta1/Sundown
 
 
