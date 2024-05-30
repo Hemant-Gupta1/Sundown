@@ -60,3 +60,4 @@ swiperAnimation()
 page4Animation()
 menuAnimation()
 loaderAnimation()
+// done
